@@ -2,7 +2,7 @@
 <testng-results ignored="2" total="6" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-09-13T10:29:00 IST" name="Suite" finished-at="2020-09-13T10:29:00 IST" duration-ms="49">
+  <suite started-at="2020-09-13T12:36:55 IST" name="Suite" finished-at="2020-09-13T12:36:55 IST" duration-ms="53">
     <groups>
       <group name="smoke">
         <method signature="NewTest.Logout()[pri:6, instance:com.test.TestNG.NewTest@7995092a]" name="Logout" class="com.test.TestNG.NewTest"/>
@@ -17,21 +17,21 @@
         <method signature="NewTest.openPage()[pri:1, instance:com.test.TestNG.NewTest@7995092a]" name="openPage" class="com.test.TestNG.NewTest"/>
       </group> <!-- Performance -->
     </groups>
-    <test started-at="2020-09-13T10:29:00 IST" name="Test" finished-at="2020-09-13T10:29:00 IST" duration-ms="49">
+    <test started-at="2020-09-13T12:36:55 IST" name="Test" finished-at="2020-09-13T12:36:55 IST" duration-ms="53">
       <class name="com.test.TestNG.NewTest">
-        <test-method signature="openPage()[pri:1, instance:com.test.TestNG.NewTest@7995092a]" started-at="2020-09-13T10:29:00 IST" name="openPage" finished-at="2020-09-13T10:29:00 IST" duration-ms="9" status="PASS">
+        <test-method signature="openPage()[pri:1, instance:com.test.TestNG.NewTest@7995092a]" started-at="2020-09-13T12:36:55 IST" name="openPage" finished-at="2020-09-13T12:36:55 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openPage -->
-        <test-method signature="login()[pri:2, instance:com.test.TestNG.NewTest@7995092a]" started-at="2020-09-13T10:29:00 IST" name="login" finished-at="2020-09-13T10:29:00 IST" duration-ms="1" status="PASS">
+        <test-method signature="login()[pri:2, instance:com.test.TestNG.NewTest@7995092a]" started-at="2020-09-13T12:36:55 IST" name="login" finished-at="2020-09-13T12:36:55 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="addNewUser()[pri:3, instance:com.test.TestNG.NewTest@7995092a]" started-at="2020-09-13T10:29:00 IST" name="addNewUser" finished-at="2020-09-13T10:29:00 IST" duration-ms="1" status="PASS">
+        <test-method signature="addNewUser()[pri:3, instance:com.test.TestNG.NewTest@7995092a]" started-at="2020-09-13T12:36:55 IST" name="addNewUser" finished-at="2020-09-13T12:36:55 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addNewUser -->
-        <test-method signature="Logout()[pri:6, instance:com.test.TestNG.NewTest@7995092a]" started-at="2020-09-13T10:29:00 IST" name="Logout" finished-at="2020-09-13T10:29:00 IST" duration-ms="1" status="PASS">
+        <test-method signature="Logout()[pri:6, instance:com.test.TestNG.NewTest@7995092a]" started-at="2020-09-13T12:36:55 IST" name="Logout" finished-at="2020-09-13T12:36:55 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Logout -->
